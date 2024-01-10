@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **leonelcaroc25@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iIs6nCDIhp4lzMWJ51L773RExEt-YnRL/view?usp=sharing](https://drive.google.com/file/d/1iIs6nCDIhp4lzMWJ51L773RExEt-YnRL/view?usp=sharing)
-
 - ⚡ Fun fact **I'm a chess player**
 
 <h3 align="left">Connect with me:</h3>
