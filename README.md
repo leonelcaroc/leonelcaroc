@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/leocaroc" target="blank"><img src="https://img.shields.io/twitter/follow/leocaroc?logo=twitter&style=for-the-badge" alt="leocaroc" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS, NextJS, SQL, GoLang, and Bash Scripting**
+- 🌱 I’m currently learning **NodeJS, NextJS, NuxtJS, SQL, MongoDB, GoLang, and Bash Scripting**
 
 - 💬 Ask me about **reactjs, javascript or nodejs**
 
