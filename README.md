@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS, NuxtJS, SQL, MongoDB, NodeJS, and GoLang**
 
-- 💬 Ask me about **reactjs, javascript or nodejs**
+- 💬 Ask me about **backend endineering, database structure or frontend architecture**
 
 - 📫 How to reach me **leonelcaroc25@gmail.com**
 
