@@ -9,7 +9,7 @@
 
 - 🌱 I’m knowledgeable in **NextJS, NuxtJS, SQL, MongoDB, NodeJS, and GoLang**
 
-- 💬 Ask me about **backend endineering, database structure or frontend architecture**
+- 💬 Ask me about **backend engineering, database structure or frontend architecture**
 
 - 📫 How to reach me **leonelcaroc25@gmail.com**
 
